@@ -27,7 +27,7 @@ class _TextmassegeState extends State<Textmassege> {
           'Telegram',
           style: TextStyle(fontSize: 25),
         ),
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.amber,
       ),
       body: Column(
         children: [
